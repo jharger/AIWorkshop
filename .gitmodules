@@ -1,4 +1,4 @@
-[submodule "Assets\\UnitySteer"]
-	path = Assets\\UnitySteer
+[submodule "Assets/UnitySteer"]
+	path = Assets/UnitySteer
 	url = git@github.com:ricardojmendez/UnitySteer.git
 	branch = master
